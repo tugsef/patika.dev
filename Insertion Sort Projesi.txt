@@ -3,7 +3,7 @@
 ----------Aşamalar-----------
 
  Not:Elemanların seçildiğini belirtmek için "| |" işareti kullanılmıştır.  
-                         
+ Endeks başlangıcı 1 'dir.                     
 1.Adım  (n)  [|22|,27,16,|2|,18,6] En küçük eleman bulunur.İlk endeksteki elemanla yer değiştirir.                           
 				
 2.Adım  (n-1) [2,|27|,16,22,18,|6|] 22  ile 2 yer değiştirdi. İlk endeks elemanı seçildi.ikinci  endeks için diğer elemanlar
