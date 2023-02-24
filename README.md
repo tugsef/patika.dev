@@ -1,5 +1,6 @@
 # patika.dev
 Patika.dev Educational Projects
+
 Repository Patika.dev Veri Yapıları ve Algoritmalar dersi kapsamında oluşturulmuştur.
 
 > İletişim Bilgilerim
