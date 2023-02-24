@@ -1,6 +1,6 @@
-#INSERTION SORT PROJESİ
+# INSERTION SORT PROJESİ
 
-- Aşamalar
+- **Aşamalar**
 
  **Not:Elemanların seçildiğini belirtmek için "| |" işareti kullanılmıştır.**
  
@@ -19,15 +19,18 @@ arasından en küçüğü seçilir
 **4.Adım**  (n-3) [2,6,16,22,18,27]22 ile 18 yer değiştirdi. 5 endeks elemanıda diğer elemana göre küçük olduğundan          
 sıralanma tamamlanmış oldu.
 
--Big-O Notation Gösterimi
+- **Big-O Notation Gösterimi**
 
 n + (n-1) + (n – 2) + ....... +1 ->Birden n kadar olan sayıların toplamını veririr.
+
 n ( n +1 ) / 2  (n^2 + n )/2 Big – O Notation gösterimi domine eden -> n^2
+
 Worst Case gösterimi  o(n^2) -> Quadratic
 
-- Time Complexity
+- **Time Complexity**
 
 18 sayısı sonda olmadığı için Worst case değildir.
 18 sayısı başta olmadığı için Best case değildir.
 18 sayısı başta ve sonda olmadığı için Average case kapsamına girer.
 
+> PROJE [Patika.dev Veri Yapıları ve Algoritmalar](https://app.patika.dev/sefad) dersi kapsamında tarafımdan hazırlanmıştır.
