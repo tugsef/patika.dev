@@ -20,4 +20,4 @@ her satırda n işlem
 x = logn 
 Big-o = O(nlogn) Lineer
 
-> PROJE [Patika.dev Veri Yapıları ve Algoritmalar](https://app.patika.dev/sefad) dersi kapsamında hazırlanmıştır.
+> PROJE [Patika.dev Veri Yapıları ve Algoritmalar](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje) dersi kapsamında hazırlanmıştır.
