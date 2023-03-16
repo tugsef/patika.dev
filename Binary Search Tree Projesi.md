@@ -32,4 +32,4 @@ Tree’de root olarak 7 sayısını belirledim.
 				        *     *
 				     |2|        |4|
 				 
-> PROJE [Patika.dev Veri Yapıları ve Algoritmalar]([https://app.patika.dev/sefad](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje)) dersi kapsamında hazırlanmıştır
+> PROJE [Patika.dev Veri Yapıları ve Algoritmalar](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje) dersi kapsamında hazırlanmıştır
