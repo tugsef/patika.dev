@@ -33,4 +33,4 @@ Worst Case gösterimi  o(n^2) -> Quadratic
 18 sayısı başta olmadığı için Best case değildir.
 18 sayısı başta ve sonda olmadığı için Average case kapsamına girer.
 
-> PROJE [Patika.dev Veri Yapıları ve Algoritmalar](https://app.patika.dev/sefad) dersi kapsamında tarafımdan hazırlanmıştır.
+> PROJE [Patika.dev Veri Yapıları ve Algoritmalar][(https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) dersi kapsamında tarafımdan hazırlanmıştır.
